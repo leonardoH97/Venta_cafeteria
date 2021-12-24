@@ -11,5 +11,4 @@ o	Cancelar la venta.
 •	Mostrar una relación de las ventas realizadas con respectiva fecha, lista de productos  y precio. 
 •	Mostrar el producto con la cantidad mayor almacenada en la base de datos. 
 •	Mostrar el producto más vendido 
-Cuenta con una base de datos llamada ventasx las cual se aloja en “localhost” con el usuario “root” y contraseña libre, dicha base de datos diseñada en el sistema de gestión de bases de datos MySQL (XAMPP) 
-Se recomienda la importación de la base de datos desde la consola para no perder la configuración de las relaciones en caso dado. 
+Cuenta con una base de datos llamada ventasx las cual se aloja en “localhost” con el usuario “root” y contraseña libre, dicha base de datos diseñada en el sistema de gestión de bases de datos MySQL (XAMP)
